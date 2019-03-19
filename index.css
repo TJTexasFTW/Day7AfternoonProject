@@ -1,0 +1,30 @@
+h1 {
+    border-bottom: 1pt; 
+    /* align-item: center; */
+
+}
+
+#BigWords {
+    font-size: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+#SubP {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    text-align: center;
+    margin-right: 325px;
+    margin-left: 325px;
+    line-height: 1.75;
+}
+
+header {
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: stretch;
+    display: flex;
+    padding: 20px;
+    position: sticky; 
+  }
